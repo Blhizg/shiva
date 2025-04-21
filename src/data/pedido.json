@@ -1,0 +1,175 @@
+{
+  "categorias": [
+    {
+      "id": "rolls-premium",
+      "nombre": "Rolls Premium",
+      "items": [
+        {
+          "id": "tomato",
+          "nombre": "Tomato",
+          "precios": {
+            "5": 4000,
+            "10": 8000
+          }
+        },
+        {
+          "id": "parmesano",
+          "nombre": "Parmesano",
+          "precios": {
+            "5": 4000,
+            "10": 8000
+          }
+        },
+        {
+          "id": "marsella",
+          "nombre": "Marsella",
+          "precios": {
+            "5": 4000,
+            "10": 8000
+          }
+        },
+        {
+          "id": "niguiri-lango",
+          "nombre": "Niguiri Lango",
+          "precios": {
+            "5": 4000,
+            "10": 8000
+          }
+        },
+        {
+          "id": "geisha-lango",
+          "nombre": "Geisha Lango",
+          "precios": {
+            "5": 4000,
+            "10": 8000
+          }
+        }
+      ]
+    },
+    {
+      "id": "hot-rolls",
+      "nombre": "Hot Rolls (panko/tempura)",
+      "items": [
+        {
+          "id": "langostinos",
+          "nombre": "Langostinos",
+          "precios": {
+            "5": 3500,
+            "10": 7000
+          }
+        },
+        {
+          "id": "salmon",
+          "nombre": "Salmon",
+          "precios": {
+            "5": 4500,
+            "10": 9000
+          }
+        },
+        {
+          "id": "veggie",
+          "nombre": "Veggie",
+          "precios": {
+            "5": 3000,
+            "10": 6000
+          }
+        }
+      ]
+    },
+    {
+      "id": "vegetarianos",
+      "nombre": "Vegetarianos",
+      "items": [
+        {
+          "id": "vegetarianos",
+          "nombre": "Vegetarianos",
+          "precios": {
+            "5": 3500,
+            "10": 7000
+          }
+        }
+      ]
+    },
+    {
+      "id": "entradas",
+      "nombre": "Entradas y Ensaladas",
+      "items": [
+        {
+          "id": "lango-furay",
+          "nombre": "Lango Furay (x7 un.)",
+          "precio": 6000
+        },
+        {
+          "id": "salmon-furay",
+          "nombre": "Salmon Furay (x7 un.)",
+          "precio": 7000
+        },
+        {
+          "id": "lango-tempura",
+          "nombre": "Lango Tempura (x7 un.)",
+          "precio": 6000
+        },
+        {
+          "id": "salmon-tempura",
+          "nombre": "Salmon Tempura (x7 un.)",
+          "precio": 7000
+        },
+        {
+          "id": "vege-tempura",
+          "nombre": "Vege Tempura (x7 un.)",
+          "precio": 6000
+        },
+        {
+          "id": "bocaditos-salmon",
+          "nombre": "Bocaditos de salmon (x6 un.)",
+          "precio": 5000
+        },
+        {
+          "id": "geisha-tempura",
+          "nombre": "Geisha Tempura (x6 un.)",
+          "precio": 7000
+        },
+        {
+          "id": "rabas",
+          "nombre": "Rabas",
+          "precio": 7000
+        },
+        {
+          "id": "salmon-natural",
+          "nombre": "Salmon natural",
+          "precio": 9000
+        },
+        {
+          "id": "lango-natural",
+          "nombre": "Lango natural",
+          "precio": 8000
+        },
+        {
+          "id": "salmon-crocante-ensalada",
+          "nombre": "Salmon Crocante",
+          "precio": 9000
+        },
+        {
+          "id": "lango-crocante",
+          "nombre": "Lango Crocante",
+          "precio": 8000
+        },
+        {
+          "id": "vegetariana",
+          "nombre": "Vegetariana",
+          "precio": 6000
+        },
+        {
+          "id": "harumaki-carne",
+          "nombre": "Harumaki de Carne (x4 un.)",
+          "precio": 5000
+        },
+        {
+          "id": "harumaki-verdura",
+          "nombre": "Harumaki de Verdura (x4 un.)",
+          "precio": 5000
+        }
+      ]
+    }
+  ]
+}

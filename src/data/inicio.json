@@ -1,0 +1,59 @@
+{
+  "sliders": [
+    {
+      "id": 1,
+      "titulo": "El mejor sushi de Avellaneda",
+      "subtitulo": "Sabores auténticos con un toque único",
+      "imagen": "https://images.pexels.com/photos/3298064/pexels-photo-3298064.jpeg",
+      "cta": "Ver Menú"
+    },
+    {
+      "id": 2,
+      "titulo": "Prueba nuestros rolls especiales",
+      "subtitulo": "Creaciones únicas que solo encontrarás en Shiva Sushi",
+      "imagen": "https://images.pexels.com/photos/2323391/pexels-photo-2323391.jpeg",
+      "cta": "Descubrir"
+    },
+    {
+      "id": 3,
+      "titulo": "Delivery en toda la zona sur",
+      "subtitulo": "Tu pedido a domicilio con un solo click",
+      "imagen": "https://images.pexels.com/photos/5900731/pexels-photo-5900731.jpeg",
+      "cta": "Pedir Ahora"
+    }
+  ],
+  "destacados": [
+    {
+      "id": 1,
+      "titulo": "Shiva Roll",
+      "descripcion": "Nuestro roll especial más vendido",
+      "imagen": "https://images.pexels.com/photos/2323391/pexels-photo-2323391.jpeg"
+    },
+    {
+      "id": 2,
+      "titulo": "Combos Familiares",
+      "descripcion": "La mejor opción para compartir",
+      "imagen": "https://images.pexels.com/photos/3298064/pexels-photo-3298064.jpeg"
+    },
+    {
+      "id": 3,
+      "titulo": "Rolls Clásicos",
+      "descripcion": "Los sabores de siempre",
+      "imagen": "https://images.pexels.com/photos/8951199/pexels-photo-8951199.jpeg"
+    }
+  ],
+  "promociones": [
+    {
+      "id": 1,
+      "titulo": "2x1 en Rolls Clásicos",
+      "descripcion": "Todos los martes y miércoles",
+      "condiciones": "Válido solo para consumo en el local. No acumulable con otras promociones."
+    },
+    {
+      "id": 2,
+      "titulo": "30% OFF en Combos",
+      "descripcion": "Los domingos con tu pedido online",
+      "condiciones": "Válido solo para delivery. Código: DOMINGO30"
+    }
+  ]
+}

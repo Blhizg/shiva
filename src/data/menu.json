@@ -1,0 +1,124 @@
+{
+  "categorias": [
+    {
+      "id": "entradas",
+      "nombre": "Entradas",
+      "items": [
+        {
+          "id": 1,
+          "nombre": "Gyozas de cerdo",
+          "descripcion": "Empanadillas japonesas rellenas de cerdo y verduras (6 unidades)",
+          "precio": 2500,
+          "imagen": "https://images.pexels.com/photos/6249666/pexels-photo-6249666.jpeg",
+          "destacado": true
+        },
+        {
+          "id": 2,
+          "nombre": "Wakame",
+          "descripcion": "Ensalada de algas marinas con sésamo",
+          "precio": 2000,
+          "imagen": "https://images.pexels.com/photos/2323398/pexels-photo-2323398.jpeg",
+          "destacado": false
+        },
+        {
+          "id": 3,
+          "nombre": "Edamame",
+          "descripcion": "Vainas de soja con sal marina",
+          "precio": 1800,
+          "imagen": "https://images.pexels.com/photos/4518586/pexels-photo-4518586.jpeg",
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "rolls",
+      "nombre": "Rolls Clásicos",
+      "items": [
+        {
+          "id": 4,
+          "nombre": "Philadelphia Roll",
+          "descripcion": "Roll de salmón, queso crema y palta (8 piezas)",
+          "precio": 3200,
+          "imagen": "https://images.pexels.com/photos/8951199/pexels-photo-8951199.jpeg",
+          "destacado": true
+        },
+        {
+          "id": 5,
+          "nombre": "California Roll",
+          "descripcion": "Roll de kanikama, pepino y palta (8 piezas)",
+          "precio": 2800,
+          "imagen": "https://images.pexels.com/photos/2323398/pexels-photo-2323398.jpeg",
+          "destacado": false
+        },
+        {
+          "id": 6,
+          "nombre": "Tuna Roll",
+          "descripcion": "Roll de atún, aguacate y pepino (8 piezas)",
+          "precio": 3500,
+          "imagen": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg",
+          "destacado": true
+        }
+      ]
+    },
+    {
+      "id": "rolls-especiales",
+      "nombre": "Rolls Especiales",
+      "items": [
+        {
+          "id": 7,
+          "nombre": "Shiva Roll",
+          "descripcion": "Roll especial de la casa con salmón flameado, langostinos y salsa de maracuyá (8 piezas)",
+          "precio": 4200,
+          "imagen": "https://images.pexels.com/photos/2323391/pexels-photo-2323391.jpeg",
+          "destacado": true
+        },
+        {
+          "id": 8,
+          "nombre": "Avellaneda Roll",
+          "descripcion": "Roll con langostinos rebozados, queso crema y cobertura de salmón (8 piezas)",
+          "precio": 4000,
+          "imagen": "https://images.pexels.com/photos/2098143/pexels-photo-2098143.jpeg",
+          "destacado": true
+        },
+        {
+          "id": 9,
+          "nombre": "Acevedo Roll",
+          "descripcion": "Roll hot con salmón, palta y queso crema rebozado (8 piezas)",
+          "precio": 3900,
+          "imagen": "https://images.pexels.com/photos/8951148/pexels-photo-8951148.jpeg",
+          "destacado": false
+        }
+      ]
+    },
+    {
+      "id": "combos",
+      "nombre": "Combos",
+      "items": [
+        {
+          "id": 10,
+          "nombre": "Combo Shiva",
+          "descripcion": "24 piezas: 8 Philadelphia roll, 8 Shiva roll, 8 California roll",
+          "precio": 9000,
+          "imagen": "https://images.pexels.com/photos/5900731/pexels-photo-5900731.jpeg",
+          "destacado": true
+        },
+        {
+          "id": 11,
+          "nombre": "Combo Familiar",
+          "descripcion": "40 piezas: 8 Philadelphia roll, 8 Shiva roll, 8 California roll, 8 Avellaneda roll, 8 Tuna roll",
+          "precio": 14500,
+          "imagen": "https://images.pexels.com/photos/3298064/pexels-photo-3298064.jpeg",
+          "destacado": true
+        },
+        {
+          "id": 12,
+          "nombre": "Combo Individual",
+          "descripcion": "10 piezas: 5 Philadelphia roll, 5 California roll",
+          "precio": 4500,
+          "imagen": "https://images.pexels.com/photos/6863184/pexels-photo-6863184.jpeg",
+          "destacado": false
+        }
+      ]
+    }
+  ]
+}

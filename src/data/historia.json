@@ -1,0 +1,21 @@
+{
+  "titulo": "Nuestra Historia",
+  "fundacion": 2015,
+  "descripcion": "Shiva Sushi nació en 2015 en el corazón de Avellaneda con una misión clara: traer el auténtico sabor japonés a la zona sur del Gran Buenos Aires, reinventado con un toque local. Lo que comenzó como un pequeño local de comida para llevar, se ha convertido hoy en uno de los referentes gastronómicos más importantes de la región.",
+  "parrafos": [
+    "Nuestro nombre, Shiva, inspirado en la deidad hindú de la transformación, refleja nuestra filosofía de evolución constante y respeto por la tradición culinaria japonesa, adaptándola a los gustos y preferencias locales.",
+    "En cada pieza de sushi que preparamos, honramos las técnicas tradicionales japonesas, pero no tenemos miedo de innovar y crear platos únicos que sorprenden a nuestros comensales.",
+    "Desde el principio, nos hemos comprometido a utilizar los ingredientes más frescos y de la mejor calidad, apoyando a productores locales siempre que sea posible.",
+    "A lo largo de los años, hemos crecido gracias al apoyo de nuestra comunidad en Avellaneda y alrededores. Nuestro objetivo sigue siendo el mismo: ofrecer una experiencia gastronómica excepcional a precios accesibles para todos."
+  ],
+  "valores": [
+    "Calidad en cada detalle",
+    "Innovación con respeto a la tradición",
+    "Servicio cálido y personalizado",
+    "Compromiso con la comunidad local"
+  ],
+  "equipo": {
+    "chef": "Chef Martín Rodríguez",
+    "biografia": "Con más de 15 años de experiencia en la cocina japonesa, el Chef Martín ha estudiado en Japón y ha trabajado en reconocidos restaurantes en Buenos Aires antes de unirse a Shiva Sushi como chef principal. Su pasión por los sabores y técnicas japonesas se refleja en cada plato que crea."
+  }
+}

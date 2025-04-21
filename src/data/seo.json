@@ -1,0 +1,44 @@
+{
+  "titulo": "Shiva Sushi | El mejor sushi de Avellaneda y zona sur",
+  "descripcion": "Shiva Sushi ofrece el mejor sushi de Avellaneda y zona sur. Rolls, combos, delivery y take-away. Auténtica comida japonesa con un toque local.",
+  "palabrasClave": [
+    "Shiva Sushi",
+    "Sushi Avellaneda",
+    "Mejor sushi Gerli",
+    "Delivery sushi Avellaneda",
+    "Sushi zona sur",
+    "Comida japonesa Avellaneda",
+    "Restaurant sushi Gerli",
+    "Sushi take away Avellaneda",
+    "Sushi Lanús",
+    "Shiva sushi avellaneda",
+    "Rolls especiales Avellaneda",
+    "Shiva.sushi",
+    "Sushi delivery Avellaneda"
+  ],
+  "imagenesOG": {
+    "urlPrincipal": "https://images.pexels.com/photos/2098143/pexels-photo-2098143.jpeg",
+    "urlMenu": "https://images.pexels.com/photos/2098085/pexels-photo-2098085.jpeg"
+  },
+  "urlCanonica": "https://shivasushi.com.ar",
+  "redesSociales": {
+    "instagram": "@shivasushi",
+    "facebook": "shivasushi",
+    "twitterCard": "summary_large_image"
+  },
+  "ubicaciones": [
+    "Avellaneda, Buenos Aires",
+    "Gerli, Buenos Aires",
+    "Lanús, Buenos Aires",
+    "Sarandí, Buenos Aires",
+    "Wilde, Buenos Aires",
+    "Dock Sud, Buenos Aires",
+    "Villa Domínico, Buenos Aires",
+    "Zona Sur, Gran Buenos Aires"
+  ],
+  "estructuradoDatos": {
+    "tipo": "Restaurant",
+    "cuisine": "Japanese, Sushi",
+    "priceRange": "$$"
+  }
+}

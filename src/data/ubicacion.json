@@ -1,0 +1,39 @@
+{
+  "direccion": "Av. Bartolomé Mitre 1234, Avellaneda, Buenos Aires",
+  "barrio": "Gerli",
+  "codigoPostal": "B1870",
+  "telefono": "+54 11 1234-5678",
+  "whatsapp": "+54 911 1234-5678",
+  "email": "contacto@shivasushi.com.ar",
+  "horarios": [
+    {
+      "dias": "Lunes a Jueves",
+      "horario": "12:00 - 15:00 y 19:00 - 23:30"
+    },
+    {
+      "dias": "Viernes y Sábados",
+      "horario": "12:00 - 15:00 y 19:00 - 00:30"
+    },
+    {
+      "dias": "Domingos",
+      "horario": "19:00 - 23:30"
+    }
+  ],
+  "coordenadas": {
+    "lat": -34.669701,
+    "lng": -58.359029
+  },
+  "zonaDelivery": [
+    "Avellaneda",
+    "Gerli",
+    "Lanús",
+    "Sarandí",
+    "Wilde",
+    "Dock Sud",
+    "Villa Domínico"
+  ],
+  "redesSociales": {
+    "instagram": "https://instagram.com/shivasushi",
+    "facebook": "https://facebook.com/shivasushi"
+  }
+}
